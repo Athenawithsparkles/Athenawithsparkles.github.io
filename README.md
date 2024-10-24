@@ -1,11 +1,10 @@
+### CDE4301 | EIM404
 
-#### CDE4301 | EIM404
-
-###### Intelligent Virtual Reality Eye Screening Assistant (iVESA)
+## Intelligent Virtual Reality Eye Screening Assistant (iVESA)
 
 
-### Under IOInspire Pte Ltd
-### In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Research Institute (SERI) and National University Hospital (NUH)
+#### Under IOInspire Pte Ltd
+#### In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Research Institute (SERI) and National University Hospital (NUH)
 
 
 
