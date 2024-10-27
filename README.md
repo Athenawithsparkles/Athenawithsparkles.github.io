@@ -5,6 +5,8 @@ In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Resear
 
 
 # Table of contents
+[Problem](##Problem)
+[Project scope](##Projects-scope)
 
 ## Problem
 ### Myopia in Singapore
