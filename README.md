@@ -4,17 +4,17 @@ Under IOInspire Pte Ltd
 In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Research Institute (SERI) and National University Hospital (NUH)
 
 
-#Table of contents
+# Table of contents
 
-##Problem
+## Problem
 
-##Project scope
+## Project scope
 
-##Initial testing
+## Initial testing
 
-##Prototyping
+## Prototyping
 
-##Testing
+## Testing
 
 
 Type or search github markdown to add to the readme file
