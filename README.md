@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 ### CDE4301 | EIM404
 
 ## Intelligent Virtual Reality Eye Screening Assistant (iVESA)
