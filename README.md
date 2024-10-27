@@ -1,6 +1,5 @@
-### CDE4301 | EIM404
-
 ## Intelligent Virtual Reality Eye Screening Assistant (iVESA)
+### CDE4301 | EIM404
 
 
 #### Under IOInspire Pte Ltd
