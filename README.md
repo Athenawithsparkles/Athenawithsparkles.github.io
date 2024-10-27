@@ -1,6 +1,6 @@
 ## Intelligent Virtual Reality Eye Screening Assistant (iVESA)
 #### CDE4301 | EIM404
-Under IOInspire Pte Ltd 
+[Under IOInspire Pte Ltd] (https://ioinspire.com/) 
 In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Research Institute (SERI) and National University Hospital (NUH)
 
 
