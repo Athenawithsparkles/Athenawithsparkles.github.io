@@ -8,9 +8,9 @@ In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Resear
   <h2>Table of Contents</h2>
   <sl-tree>
     <sl-tree-item expanded>
-      <a href="#section-header-1">1. Section Header 1</a>
+      <a href="#section-header-1">1. Introduction </a>
       <sl-tree-item>
-        <a href="#sub-section-1-header-1">1.1. Sub-section Header 1</a>
+        <a href="#sub-section-1-header-1">2.1. Sub-section Header 1</a>
       </sl-tree-item>
       <sl-tree-item>
         <a href="#sub-section-1-header-2">1.2. Sub-section Header 2</a>
