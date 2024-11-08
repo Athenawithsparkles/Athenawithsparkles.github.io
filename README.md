@@ -4,6 +4,39 @@
 In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Research Institute (SERI) and National University Hospital (NUH)
 
 
+<div class="table-of-content">
+  <h2>Table of Contents</h2>
+  <sl-tree>
+    <sl-tree-item expanded>
+      <a href="#section-header-1">1. Section Header 1</a>
+      <sl-tree-item>
+        <a href="#sub-section-1-header-1">1.1. Sub-section Header 1</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#sub-section-1-header-2">1.2. Sub-section Header 2</a>
+      </sl-tree-item>
+    </sl-tree-item>
+
+    <sl-tree-item expanded>
+      <a href="#section-header-2">2. Section Header 1</a>
+      <sl-tree-item>
+        <a href="#sub-section-2-header-1">2.1. Sub-section Header 1</a>
+      </sl-tree-item>
+      <sl-tree-item>
+        <a href="#sub-section-2-header-2">2.2. Sub-section Header 2</a>
+      </sl-tree-item>
+    </sl-tree-item>
+
+    <sl-tree-item>
+      <a href="#references">References</a>
+    </sl-tree-item>
+  </sl-tree>
+</div>
+
+
+
+
+
 # Table of contents
 [Problem](##Problem)
 [Project scope](##Projects-scope)
