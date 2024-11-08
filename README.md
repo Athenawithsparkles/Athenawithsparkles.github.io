@@ -4,6 +4,10 @@
 In collaboration with Singapore National Eye Centre (SNEC), Singapore Eye Research Institute (SERI) and National University Hospital (NUH)
 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/themes/light.css" />
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.18.0/cdn/shoelace-autoloader.js"></script>
+
+
 <div class="table-of-content">
   <h2>Table of Contents</h2>
   <sl-tree>
